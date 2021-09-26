@@ -4,9 +4,9 @@ import './Header.css';
 const Header = () => {
     return (
         <div className='top-bar'>
-            <h2>A Writers Compact List</h2>
-            <p>World most famous writers Organized a writers Aword </p>
-            <h2>Total Budget: 100 Million</h2>
+            <h2>Largest fair for books</h2>
+            <p>World most famous writers Books fairs</p>
+            <h2>Total Fairs Budget: 1 Milion</h2>
         </div>
     );
 };

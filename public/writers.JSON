@@ -1,83 +1,83 @@
 [
   {
-    "name": "Sumon",
-    "age": "30",
-    "img": "https://rfi4x.com/imgs/handsome-young-man.jpg",
+    "name": "William Shakespeare",
+    "age": 52,
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Shakespeare.jpg/330px-Shakespeare.jpg",
     "language": "English",
-    "Genres": "Novel, Romance novel, Fiction",
-    "published": "2016",
+    "Genres": "tragedies, comedies , histories ",
+    "books": 42,
     "price": 120
   },
   {
-    "name": "Noman",
-    "age": "27",
-    "img": "https://t3.ftcdn.net/jpg/03/28/19/46/360_F_328194664_RKSHvMLgHphnD1nwQYb4QKcNeEApJmqa.jpg",
-    "language": "canada",
-    "Genres": "Novel, Romance novel, Fiction",
-    "published": "2016",
-    "price": 89
+    "name": "Harold Robbins",
+    "age": 85,
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Harold_Robbins_%281979%29.jpg/330px-Harold_Robbins_%281979%29.jpg",
+    "language": "English",
+    "Genres": "Adventure",
+    "published": 23,
+    "price": 70
   },
   {
-    "name": "Kohinur",
-    "age": "47",
-    "img": "https://www.seekpng.com/png/detail/57-576498_man-face-png-happy-people-face-png.png",
+    "name": "Joanne Rowling",
+    "age": 56,
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/J._K._Rowling_2010.jpg/330px-J._K._Rowling_2010.jpg",
     "language": "Spanice",
-    "Genres": "Novel, Romance novel, Fiction",
-    "published": "2016",
-    "price": 20
+    "Genres": "Cormoran Strike, fantasy, crime fiction",
+    "published": 15,
+    "price": 140
   },
   {
-    "name": "Aurora",
-    "age": "30",
-    "img": "https://www.stereoboard.com/images/stories/2013/images/A-Z%20Main%20Artist%20Images/K/kate_tempest_js_170619.jpg",
+    "name": "Robert Lawrence Stine",
+    "age": 77,
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/R._L._Stine_by_Gage_Skidmore.jpg/330px-R._L._Stine_by_Gage_Skidmore.jpg",
     "language": "English",
-    "Genres": "Novel, Romance novel, Fiction",
-    "published": "2016",
-    "price": 55
+    "Genres": "Fear Street series, horror, comedy",
+    "published": 430,
+    "price": "55"
   },
   {
-    "name": "Aurora",
-    "age": "30",
-    "img": "https://www.stereoboard.com/images/stories/2013/images/A-Z%20Main%20Artist%20Images/K/kate_tempest_js_170619.jpg",
-    "language": "English",
+    "name": "Paulo Coelho",
+    "age": 78,
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Coelhopaulo26012007-1.jpg/330px-Coelhopaulo26012007-1.jpg",
+    "language": "Portuguese",
     "Genres": "Novel, Romance novel, Fiction",
-    "published": "2016",
-    "price": 55
+    "published": 28,
+    "price": 80
   },
   {
-    "name": "Aurora",
-    "age": "30",
-    "img": "https://www.stereoboard.com/images/stories/2013/images/A-Z%20Main%20Artist%20Images/K/kate_tempest_js_170619.jpg",
-    "language": "English",
-    "Genres": "Novel, Romance novel, Fiction",
-    "published": "2016",
-    "price": 55
+    "name": "Rabindranath Tagore",
+    "age": 80,
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Rabindranath_Tagore_unknown_location.jpg/330px-Rabindranath_Tagore_unknown_location.jpg",
+    "language": " Bangla",
+    "Genres": "Bengali poet, short-story writer, composer",
+    "published": 50,
+    "price": 40
   },
   {
-    "name": "Aurora",
-    "age": "30",
-    "img": "https://www.stereoboard.com/images/stories/2013/images/A-Z%20Main%20Artist%20Images/K/kate_tempest_js_170619.jpg",
-    "language": "English",
+    "name": "René Goscinny",
+    "age": 51,
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Ren%C3%A9_Goscinny.jpg/330px-Ren%C3%A9_Goscinny.jpg",
+    "language": "Portuguese",
     "Genres": "Novel, Romance novel, Fiction",
-    "published": "2016",
-    "price": 55
+    "published": 108,
+    "price": 80
   },
   {
-    "name": "Aurora",
-    "age": "30",
-    "img": "https://www.stereoboard.com/images/stories/2013/images/A-Z%20Main%20Artist%20Images/K/kate_tempest_js_170619.jpg",
-    "language": "English",
-    "Genres": "Novel, Romance novel, Fiction",
-    "published": "2016",
-    "price": 55
+    "name": "Osamu Tezuka",
+    "age": 60,
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Osamu_Tezuka_1951_Scan10008-2.JPG/330px-Osamu_Tezuka_1951_Scan10008-2.JPG",
+    "language": "Portuguese",
+    "Genres": "Manga, Astro Boy, Black Jack",
+    "published": 62,
+    "price": 30
   },
   {
-    "name": "portman",
-    "age": "56",
-    "img": "https://image.shutterstock.com/image-photo/portrait-successful-professional-pretty-cute-260nw-1070706047.jpg",
-    "language": "canada",
-    "Genres": "Novel, Romance novel, Fiction",
-    "published": "2016",
-    "price": 95
+    "name": "Humayun Ahmed",
+    "age": 63,
+    "img": "https://m.media-amazon.com/images/M/MV5BNTM5YmQ5ZGYtMzRiMC00ZmVkLWIzMGItYjkwMTRkZWIyMTk1XkEyXkFqcGdeQXVyNDI3NjcxMDA@._V1_.jpg",
+    "language": " Bangla",
+    "Genres": "fiction and non-fiction books",
+    "published": 200,
+    "price": 40
   }
 ]

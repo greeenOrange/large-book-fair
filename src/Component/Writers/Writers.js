@@ -20,14 +20,15 @@ const Writers = () => {
         <div className='writers-container'>
             <div className="writer-style">
             {
-                writers.map(writer => <Writer
+                writers.map(writer => <Writer 
+                key={writer.name}
                  writer={writer}
                 
                  handleAddToCart={handleAddToCart}
                 ></Writer>)
             }
             </div>
-            <div className='cart-setion'>
+            <div>
             <Cart cart={cart}></Cart>
           </div>
         </div>

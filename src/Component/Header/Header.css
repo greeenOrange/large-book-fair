@@ -4,5 +4,14 @@
     padding: 0;
 }
 .top-bar{
-    background-color: rgb(184, 108, 10);
+    margin: auto;
+    background-color: #81a5e9;
+    width: 900px;
+    
+}
+.top-bar h2{
+    color: #df2534;
+}
+.top-bar h2:last-child{
+    color: #fff;
 }

@@ -1,6 +1,8 @@
 .writers-container{
     display: grid;
     grid-template-columns: repeat(3, 1fr);
+    width: 1200px;
+    margin: 1.5rem auto;
 }
 .writer-style{
     display: grid;
