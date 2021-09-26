@@ -1,5 +1,5 @@
 import React, { useEffect } from 'react';
-import './Writers.css'
+import './Writers.css';
 import { useState } from 'react';
 import Writer from '../Write/Writer';
 import Cart from '../Cart/Cart';

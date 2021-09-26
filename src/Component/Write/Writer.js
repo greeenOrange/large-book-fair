@@ -1,7 +1,7 @@
 import React from 'react';
-import {FontAwesomeIcon} from '@fortawesome/react-fontawesome'
-import {faShoppingCart } from '@fortawesome/free-solid-svg-icons'
-import './Writer.css'
+import {FontAwesomeIcon} from '@fortawesome/react-fontawesome';
+import {faShoppingCart } from '@fortawesome/free-solid-svg-icons';
+import './Writer.css';
 const Writer = (props) => {
     const {img,name,age,price,language} = props.writer;
     const shippingIcon = <FontAwesomeIcon icon={faShoppingCart} />
