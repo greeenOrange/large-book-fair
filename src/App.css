@@ -1,6 +1,9 @@
 .App {
   text-align: center;
   background: url(./imges/books.jpg);
+  background-repeat: no-repeat;
+  background-size: auto;
+  overflow-x: hidden;
 }
 
 .App-logo {

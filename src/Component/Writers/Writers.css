@@ -1,7 +1,7 @@
 .writers-container{
     display: grid;
     grid-template-columns: repeat(3, 1fr);
-    width: 1200px;
+    width:100vw;
     margin: 1.5rem auto;
 }
 .writer-style{
@@ -13,4 +13,36 @@
 }
 .cart-setion{
    background-color:olivedrab;
+}
+
+@media screen and (max-width: 948px){
+  .writers-container{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    width:100vw;
+    margin: 1.5rem auto;
+}
+.writer-style{
+  display: grid;
+grid-template-columns: repeat(2, 1fr);
+gap: 10px;
+grid-column: 1 / 1;
+grid-row: 1;
+}
+}
+
+@media screen and (max-width: 662px){
+  .writers-container{
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+    width:100vw;
+    margin: 1.5rem auto;
+}
+.writer-style{
+  display: grid;
+grid-template-columns: repeat(1, 1fr);
+gap: 10px;
+grid-column: 2 / 2;
+grid-row: 1;
+}
 }
