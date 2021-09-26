@@ -1,0 +1,14 @@
+.writers-container{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
+.writer-style{
+    display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 10px;
+  grid-column: 1 / 3;
+  grid-row: 1;
+}
+.cart-setion{
+   background-color:olivedrab;
+}

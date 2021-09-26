@@ -1,15 +1,14 @@
 import logo from './logo.svg';
 import './App.css';
-import { useEffect } from 'react';
+import Header from './Component/Header/Header';
+import Writers from './Component/Writers/Writers';
+
 function App() {
-  useEffect(()=>{
-    fetch('./writers.JSON')
-    .then(res => res.json())
-    .then(data => console.log(data))
-  },[])
+  
   return (
     <div className="App">
-    
+      <Header></Header>
+      <Writers></Writers>
     </div>
   );
 }

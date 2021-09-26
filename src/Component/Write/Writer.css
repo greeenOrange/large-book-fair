@@ -1,0 +1,14 @@
+.writer-container{
+    background-color: rgb(68, 202, 219);
+    border: 1px solid tan;
+    border-radius: 7px;
+}
+.cart img{
+    width: 200px;
+    height: 200px;
+}
+.cart-btn{
+    background-color:rebeccapurple;
+    padding: .7rem 2.3rem;
+    color: #fff;
+}
