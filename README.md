@@ -1,6 +1,6 @@
 # Getting Started with Largest fair for books
 
-This project was bootstrapped with [Create React App](https://writer-reactapp-9396ad.netlify.app/).
+This project was bootstrapped with [https://writer-reactapp-9396ad.netlify.app/](https://writer-reactapp-9396ad.netlify.app/).
 
 ## Available Scripts
 
