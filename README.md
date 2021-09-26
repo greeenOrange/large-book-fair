@@ -1,6 +1,6 @@
 # Getting Started with Largest fair for books
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://writer-reactapp-9396ad.netlify.app/).
 
 ## Available Scripts
 
