@@ -1,10 +1,10 @@
-# Getting Started with Create React App
+# Getting Started with Largest fair for books
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [https://github.com/ProgrammingHeroWC4/Largest-fair-for-books-greenOrange.git](https://github.com/ProgrammingHeroWC4/Largest-fair-for-books-greenOrange.git/).
 
 ## Available Scripts
 
-In the project directory, you can run:
+In the project directory, you can run: # React libary # price cart add # Author picture and details 
 
 ### `npm start`
 
