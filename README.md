@@ -1,6 +1,6 @@
 # Getting Started with Largest fair for books
 
-This project was bootstrapped with [https://github.com/ProgrammingHeroWC4/Largest-fair-for-books-greenOrange.git](https://github.com/ProgrammingHeroWC4/Largest-fair-for-books-greenOrange.git/).
+This project was bootstrapped with [https://github.com/ProgrammingHeroWC4/Largest-fair-for-books-greenOrange.git](https://writer-reactapp-9396ad.netlify.app/).
 
 ## Available Scripts
 
